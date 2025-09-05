@@ -277,7 +277,7 @@ public:
         }
     }
 };
-
+// The main function
 int main() {
     cout << "---Welcome to Finance Management System!!---\n";
     User user(2000); //create user with initial balance 2000
