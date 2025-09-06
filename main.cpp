@@ -2,7 +2,7 @@
 #include<iomanip>
 #include<cmath>
 #include <string>
-
+// the librabries
 using namespace std;
 
 class Transaction {
