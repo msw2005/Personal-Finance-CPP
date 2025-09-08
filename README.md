@@ -6,7 +6,7 @@ This C++ Personal Finance Management System is a versatile console-based applica
 
 ## Features
 
-- **User Account**: Create an account with an initial balance.
+- **User Account**: Create an account with an initial balance of a set amount.
 
 - **Record Income and Expenses**: Keep track of income and expenses, with balance validation to prevent overspending.
 
