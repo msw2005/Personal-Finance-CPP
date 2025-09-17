@@ -4,7 +4,7 @@
 #include <string>
 // the librabries
 using namespace std;
-
+// Transaction function
 class Transaction {
 protected:
     double amount;
