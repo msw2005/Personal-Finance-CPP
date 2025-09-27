@@ -20,7 +20,7 @@ This C++ Personal Finance Management System is a versatile console-based applica
 
 - **Investment Information**: Monitor the maturity amounts and key investment details.
 
-- **User-Friendly Menu**: Interactive menu for user-friendly operations.
+- **User-Friendly Menu**: Interactive menu for user-friendly operations
 
 ## Class Diagram
 
