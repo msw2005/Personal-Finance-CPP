@@ -30,6 +30,7 @@ public:
         Transaction::display();
     }
 };
+// expenditure method
 
 class Expenditure : public Transaction {
 public:
