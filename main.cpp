@@ -2,7 +2,7 @@
 #include<iomanip>
 #include<cmath>
 #include <string>
-// the librabries
+// the librabries are added
 using namespace std;
 // Transaction function
 class Transaction {
