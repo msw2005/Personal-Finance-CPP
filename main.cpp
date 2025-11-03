@@ -6,6 +6,7 @@
 using namespace std;
 // Transaction function
 class Transaction {
+
 protected:
     double amount;
     string description;
