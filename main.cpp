@@ -2,9 +2,9 @@
 #include<iomanip>
 #include<cmath>
 #include <string>
-// the librabries are added
+// the librabries are added,
 using namespace std;
-// Transaction function
+// Transaction function,
 class Transaction {
 
 protected:
