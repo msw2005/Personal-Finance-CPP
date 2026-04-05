@@ -13,7 +13,7 @@ This C++ Personal Finance Management System is a versatile console-based applica
 - **Investments**: Invest in two types:
   - **Systematic Investment Plan (SIP)**: Set up monthly investments with calculated maturity amounts.
   - **Fixed Deposit (FD)**: Create fixed deposits with calculated maturity amounts.
-
+x
 - **Record Keeping**: Maintain a history of all transactions and investments.
 
 - **Financial Information**: Check the current balance and view a detailed history of income and expenses.
